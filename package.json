@@ -16,5 +16,18 @@
     "react-redux": "^7.2.2",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahriar-nafee/tic-tac-toe-next-redux-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahriar-nafee/tic-tac-toe-next-redux-/issues"
+  },
+  "homepage": "https://github.com/shahriar-nafee/tic-tac-toe-next-redux-#readme"
 }
